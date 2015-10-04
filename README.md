@@ -14,6 +14,7 @@
 
 * [WIKI](https://zh.wikipedia.org/wiki/Scheme)
 * [Cliki](http://www.cliki.net/)
+* [QuickDocs](http://quickdocs.org/)
 
 ### Implementations
 
@@ -51,6 +52,7 @@
 * [cl-luanch](http://gitlab.common-lisp.net//xcvb/cl-launch)
   * [Cliki](http://cliki.net/cl-launch)
 * [quicklisp](https://www.quicklisp.org/beta/)
+* [clbuild](https://www.common-lisp.net/project/clbuild/)
 * [qi](https://github.com/CodyReichert/qi/)
 * [clon](https://github.com/didierverna/clon)
 
